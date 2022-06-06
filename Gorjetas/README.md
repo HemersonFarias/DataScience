@@ -1,0 +1,1 @@
+Projeto que visa encontrar através de índices de correlação entre as gorjetas e vários índices, como: valor da conta, hora do dia e dia da semana.
