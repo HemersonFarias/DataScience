@@ -1,1 +1,1 @@
-Projeto de Ler e transformar arquivo .JSON utilizando Python
+Projeto de Ler e transformar arquivo .json utilizando Python
