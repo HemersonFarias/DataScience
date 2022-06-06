@@ -3,4 +3,4 @@ Repositório contendo projetos de DataScience:
 
 ## Projeto de Correlação para Indice de Felicidade numa coporação:
 
-bit.ly/3GRU8TD
+www.bit.ly/3GRU8TD
