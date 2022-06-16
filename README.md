@@ -7,4 +7,4 @@ Repositório contendo projetos de DataScience:
 
 - **Projeto de Correlação para Indice de Felicidade numa coporação:** [Indice_felicidade_link](https://github.com/HemersonFarias/DataScience/blob/e23b89ee9dc7083c80ef1dfc47b8ce3edfbb99b0/Indice_felicidade/Indice_Felicidade.pdf)
 
-- **Projeto que analisa as principais causas de Chrun**  [Churn link](https://github.com/HemersonFarias/DataScience/blob/main/Churn/Challenge_Alura_Churn.ipynb)
+- **Projeto que analisa as principais causas de Chrun**  [Análise de Churn](https://github.com/HemersonFarias/DataScience/blob/main/Churn/Challenge_Alura_Churn.ipynb)
