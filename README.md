@@ -3,7 +3,7 @@ Aqui nesta página terão os projetos de DataScience utilizando o Power BI bem c
 - ***Projetos utilizando Power BI***: 
   - **Primeira vez utilizando o Software -> Identificando os fatores que contribuem para a felicidade nas equipes** : [Felicidade de equipes](https://github.com/HemersonFarias/DataScience/tree/main/Projetos_PowerBI/Indice_felicidade)
       
-  - **Identificando principais indicadores de uma empresa varejista**: [Artigo]([https://www.linkedin.com/pulse/aplica%C3%A7%C3%A3o-de-conceitos-do-power-bi-em-uma-empresa-ramo-farias/)
+  - **Identificando principais indicadores de uma empresa varejista**: [Artigo](https://www.linkedin.com/pulse/aplica%C3%A7%C3%A3o-de-conceitos-do-power-bi-em-uma-empresa-ramo-farias/)
 
 
 - **Utilizando ETL com Python** : [ETL_Python](Transform_Python/Read_and_Transform_JSON.ipynb)
