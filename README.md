@@ -1,5 +1,9 @@
 # DataScience
-Repositório contendo projetos de DataScience:
+Aqui nesta página terão os projetos de DataScience utilizando o Power BI bem como o Python:
+- ***Projetos utilizando Power BI***: 
+      - **Primeira vez utilizando o Software -> Identificando os fatores que contribuem para a felicidade nas equipes**
+      - **Identificando principais indicadores de uma empresa varejista**
+
 
 - **Utilizando ETL com Python** : [ETL_Python](Transform_Python/Read_and_Transform_JSON.ipynb)
 
